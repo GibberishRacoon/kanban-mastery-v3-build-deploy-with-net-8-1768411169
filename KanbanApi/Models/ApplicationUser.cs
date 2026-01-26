@@ -2,6 +2,9 @@
 
 namespace KanbanApi.Models
 {
-    /**/
+    public class ApplicationUser : IdentityUser
+    {
 
+    }
+    /**/
 }
